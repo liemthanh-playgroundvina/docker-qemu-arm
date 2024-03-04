@@ -118,7 +118,7 @@ expect "Password:"
 send "$env(ROOT_PASSWORD)\n"
 
 expect "#"
-send "apk update && apk add docker ip6tables\r"
+send "apk update && apk add git nano docker docker-compose curl make htop ip6tables\r"
 
 expect "#"
 send "service docker start\r"
