@@ -1,7 +1,7 @@
-# Required (llama-cpp-python)
+# Resource Usage
 - CPU: 4 cores
 - RAM: 4GB
-- Memory: 10GB
+- Memory: 20GB
 
 ## Build
 - Step 1: Setup

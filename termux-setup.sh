@@ -7,6 +7,7 @@ cd alpine
 
 . ../config.env
 
+cp ../Makefile .
 cp ../answerfile .
 cp ../ssh2qemu.sh .
 cp ../startqemu.sh .
