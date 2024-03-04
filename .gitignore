@@ -3,3 +3,4 @@ alpine
 *.cow
 *.img
 qemukey*
+/.idea
